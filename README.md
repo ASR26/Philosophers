@@ -18,7 +18,7 @@ The next problem we can find is [mutual exclusion](https://en.wikipedia.org/wiki
 
 The last problem which we will talk about is [livelock](https://www.dit.upm.es/~pepe/libros/concurrency/index.html#!1033) which happens when a thread A is working for a thread B, which is working at the same time for the thread A, creating an infinite dependency. It is similar to a deadlock but they do not end or "die" so that is why it is called livelock.
 
-## Solutions
+## Solutions
 
 For all this problems we will use two different ways to fix them:
 - philo: we will use threads and mutexes to make the program work.
