@@ -27,3 +27,5 @@ For all this problems we will use two different ways to fix them:
 You can check their respective folders to check an extensive explaination about how they work.
 
 In _norme folders you will find the same code but without any comments so it follows the [norme](https://github.com/MagicHatJo/-42-Norm/blob/master/norme.en.pdf)
+
+For the explainations I have used [akent-go](https://github.com/akentgo) notes as base.
